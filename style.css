@@ -1,0 +1,24 @@
+.danger{
+    background-color: rgb(212, 143, 143);
+    color:red;
+    display: inline;
+    padding: 12px;
+    border-radius: 15px;
+}
+.blank{
+    background-color:rgb(224, 131, 131);
+    color: red;
+    display: inline;
+    padding: 12px;
+    border-radius: 15px;
+}
+.alert{
+    background-color: rgb(172, 233, 172);
+    color: green;
+    display: inline;
+    padding: 12px;
+    border-radius: 15px;
+}
+#studentdata{
+    display: none;
+}
